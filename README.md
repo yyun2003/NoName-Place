@@ -56,5 +56,4 @@
 
 ## 关于
 
-- 开发者：刘赟（[@yyun2003](https://github.com/yyun2003)）
-- 美术资源使用 AI 生成与免费素材，代码、数值与文案均为原创
+- 开发者：（[@yyun2003](https://github.com/yyun2003)）
